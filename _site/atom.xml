@@ -4,7 +4,7 @@
  <title>grosnick.tips</title>
  <link href="http://localhost:4000/grosnick-tips/atom.xml" rel="self"/>
  <link href="http://localhost:4000/grosnick-tips/"/>
- <updated>2018-12-21T20:22:01+01:00</updated>
+ <updated>2018-12-21T20:35:05+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Gros Nick</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Ses meilleurs conseils</title>
-   <link href="http://localhost:4000/grosnick-tips/2016/01/01/couper-oignons/"/>
-   <updated>2016-01-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2016/01/01/couper-oignons</id>
+   <link href="http://localhost:4000/grosnick-tips/2018/12/21/meilleurs-conseils/"/>
+   <updated>2018-12-21T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2018/12/21/meilleurs-conseils</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;Couper les oignons avec un chewing-gum&lt;/li&gt;
   &lt;li&gt;Pas trop dormir&lt;/li&gt;
