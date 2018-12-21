@@ -10,4 +10,4 @@ title: Ses meilleurs conseils
 5. Carte de crédit périmée péage
 6. Se cogner la tête les lendemains de soirées pour dissimuler un mal de crâne
 
-:bulb: :bulb: :bulb: :bulb:
+:bulb: :bulb: :bulb:
