@@ -11,6 +11,6 @@ title: Ses meilleurs conseils
 6. Préparez vos sandwichs avec une base de pesto pour qu’il restent moelleux plus longtemps. Bonus : un petit gout méditerranéen. :sunglasses:
 7. Pour profiter pleinement des marchés de Noel, dites à vos amis que vous n’aimez pas le vin chaud. Vous n’apparaitrez ainsi pas comme un alcoolique quand vous le remplacerez par du Genépi ou du Gin chaud. :stuck_out_tongue_winking_eye:
 8. Pour effacer l’odeur de transpiration d’une paire de chaussure, mettez la dans un sac plastique bien fermé, et laissez les une nuit au congélateur. Le gel tue les bactéries ! :shoe:
-9. Si vous faites une sauce maison (pesto par example), faites-en en grande quantité et conservez des proportions individuelles pour plus tard au congélateur dans un bac à glaçons ! :tea:
+9. Si vous faites une sauce maison (pesto par example), faites-en en grande quantité et conservez des proportions individuelles pour plus tard au congélateur dans un bac à glaçons !
 
 :bulb: :bulb: :bulb:
