@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>grosnick.tips</title>
+ <link href="http://localhost:4000/grosnick-tips/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/grosnick-tips/"/>
+ <updated>2020-10-13T21:45:16+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Gros Nick</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Ses meilleurs conseils</title>
+   <link href="http://localhost:4000/grosnick-tips/2018/12/21/meilleurs-conseils/"/>
+   <updated>2018-12-21T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2018/12/21/meilleurs-conseils</id>
+   <content type="html">&lt;ol&gt;
+  &lt;li&gt;Mâcher un chewing-gum mentholé permet d’éviter de pleurer quand on coupe des oignons. :see_no_evil:&lt;/li&gt;
+  &lt;li&gt;Eviter de trop dormir avant une soirée permet au corps et à l’esprit de moins ressentir les effets négatifs de la dépravation de sommeil. :grinning:&lt;/li&gt;
+  &lt;li&gt;En cas de rage de dents, placer un clou de girofle contre la gencive pour anesthésier et diminuer la douleur.&lt;/li&gt;
+  &lt;li&gt;Pendre une bière au réveil le lendemain d’une soirée efface le sentiment de mal être due au manque d’alcool. :beer:&lt;/li&gt;
+  &lt;li&gt;Pensez à vous cogner la tête également un lendemain de soirée, vous pourrez ainsi vous plaindre de votre mal de crane sans éveiller de suspicion quand à votre alcoolémie #nivuniconnu. :wink:&lt;/li&gt;
+  &lt;li&gt;Préparez vos sandwichs avec une base de pesto pour qu’il restent moelleux plus longtemps. Bonus : un petit gout méditerranéen. :sunglasses:&lt;/li&gt;
+  &lt;li&gt;Pour profiter pleinement des marchés de Noel, dites à vos amis que vous n’aimez pas le vin chaud. Vous n’apparaitrez ainsi pas comme un alcoolique quand vous le remplacerez par du Genépi ou du Gin chaud. :stuck_out_tongue_winking_eye:&lt;/li&gt;
+  &lt;li&gt;Pour effacer l’odeur de transpiration d’une paire de chaussure, mettez la dans un sac plastique bien fermé, et laissez les une nuit au congélateur. Le gel tue les bactéries ! :shoe:&lt;/li&gt;
+  &lt;li&gt;Si vous faites une sauce maison (pesto par example), faites-en en grande quantité et conservez des proportions individuelles pour plus tard au congélateur dans un bac à glaçons !&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;:bulb: :bulb: :bulb:&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
