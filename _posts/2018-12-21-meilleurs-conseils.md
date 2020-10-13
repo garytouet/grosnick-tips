@@ -12,6 +12,6 @@ title: Ses meilleurs conseils
  7. Pour profiter pleinement des marchés de Noel, dites à vos amis que vous n’aimez pas le vin chaud. Vous n’apparaitrez ainsi pas comme un alcoolique quand vous le remplacerez par du Genépi ou du Gin chaud. :stuck_out_tongue_winking_eye:
  8. Pour effacer l’odeur de transpiration d’une paire de chaussure, mettez la dans un sac plastique bien fermé, et laissez les une nuit au congélateur. Le gel tue les bactéries ! :shoe:
  9. Si vous faites une sauce maison (pesto par example), faites-en en grande quantité et conservez des proportions individuelles pour plus tard au congélateur dans un bac à glaçons !
-10. Vous voulez faire une soupe :stew: maison réconfortante pour affronter l’hiver ? :cold_face: Commencez par vous faire un petit ginto :cocktail:! Comme ça vous serez réconfortés avant même de commencer la soupe et n’aurez plus rien à perdre :1st_place_medal:
+10. Vous voulez faire une soupe :stew: maison réconfortante pour affronter l’hiver ? :sneezing_face: Commencez par vous faire un petit ginto :cocktail:! Comme ça vous serez réconfortés avant même de commencer la soupe et n’aurez plus rien à perdre :1st_place_medal:
 
 :bulb: :bulb: :bulb:
