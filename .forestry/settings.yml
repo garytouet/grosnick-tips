@@ -4,10 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-posts
+- type: directory
+  path: _posts
   label: Posts
   create: documents
-  new_doc_ext: ''
+  match: "*.md"
   templates:
   - post
 upload_dir: uploads
