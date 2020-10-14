@@ -6,8 +6,10 @@ webhook_url:
 sections:
 - type: jekyll-posts
   label: Posts
-  create: all
-  new_doc_ext: md
+  create: documents
+  new_doc_ext: ''
+  templates:
+  - post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
